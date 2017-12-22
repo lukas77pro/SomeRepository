@@ -35,3 +35,5 @@ Co chcesz zrobić?
 4 - wyświetl wariancję
 ''')
 print(functionsMap[index](data))
+
+#qweqweqwe
